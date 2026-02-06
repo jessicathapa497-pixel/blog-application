@@ -1,4 +1,4 @@
-import React, { type JSX } from 'react';
+import { type JSX } from 'react';
 
 const isAuthenticated = false;    //Placeholder for authentication login
 

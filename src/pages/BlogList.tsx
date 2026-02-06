@@ -1,5 +1,5 @@
 import { blogs } from '@/data/blog'
-import React from 'react'
+
 import { Link } from 'react-router-dom';
 
 function BlogList() {

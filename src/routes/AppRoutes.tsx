@@ -5,7 +5,6 @@ import Admin from '@/pages/Admin';
 import BlogDetails from '@/pages/BlogDetails';
 import BlogList from '@/pages/BlogList';
 import Home from '@/pages/Home';
-import React from 'react'
 import { Route, Routes } from 'react-router-dom';   
 
 function AppRoutes() {
